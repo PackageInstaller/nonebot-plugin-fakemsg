@@ -2,13 +2,10 @@ nonebot-plugin-fakemsg
 
 _⭐基于 `Nonebot2`的 `onebot 11`的合并转发伪造消息插件⭐_
 
-## ⭐ 介绍
-
-<div align="center">
 
 ## 支持图片，文字，以及嵌套转发，没有原版插件那么多配置
 
-</div
+
 
 ## 💿 安装
 
