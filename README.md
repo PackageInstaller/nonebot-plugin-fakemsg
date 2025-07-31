@@ -12,9 +12,6 @@ _⭐基于 `Nonebot2`的 `onebot 11`的合并转发伪造消息插件⭐_
 
 ## 💿 安装
 
-<details>
-<summary>安装</summary>
-
 git clone安装
 
 - 运行
