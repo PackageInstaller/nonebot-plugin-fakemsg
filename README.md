@@ -12,7 +12,7 @@ _⭐基于 `Nonebot2`的 `onebot 11`的合并转发伪造消息插件⭐_
 git clone安装
 
 - 运行
-  `git clone https://github.com/Cvandia/nonebot-plugin-fakemsg`
+  `git clone https://github.com/PackageInstaller/nonebot-plugin-fakemsg`
 
 ## ⭐ 使用
 
